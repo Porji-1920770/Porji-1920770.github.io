@@ -1,0 +1,54 @@
+body{
+
+}
+
+p{
+
+}
+
+h3{
+
+}
+
+li{
+
+}
+
+#Header{
+    text-align: center;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+}
+
+#Header h1{
+
+}
+
+#LeftNav{
+    width: 500px;
+
+}
+
+#LeftNav img{
+
+}
+
+#LeftNav ul{
+    
+}
+
+#LeftNav h3{
+    
+}
+
+#Content{
+    width: 700px;
+
+}
+
+#Footer{
+
+}
